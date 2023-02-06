@@ -1,0 +1,4 @@
+Maricopa County Mobile Home Park point level GIS data. It contains 519 points. They are on the correct parcel and they have correct attributes. 
+It contains both active and inactive (no longer existing) parks and has information about the park names, addresses, whether the park is one parcel 
+of made of many parcels, and data source. It also has complete metadata so it can be shared and everyone will be able to have all of the information 
+they need use and cite the data.
